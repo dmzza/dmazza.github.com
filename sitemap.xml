@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://dmazza.github.com/blog/2012/07/16/my-first-octopress-post/</loc>
+        <lastmod>2012-07-16T16:11:18-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://dmazza.github.com/blog/archives/</loc>
-        <lastmod>2012-07-16T14:51:41-04:00</lastmod>
+        <lastmod>2012-07-16T16:11:18-04:00</lastmod>
     </url>
     <url>
         <loc>http://dmazza.github.com/</loc>
-        <lastmod>2012-07-16T14:51:41-04:00</lastmod>
+        <lastmod>2012-07-16T16:11:18-04:00</lastmod>
     </url>
 </urlset>

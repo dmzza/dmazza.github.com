@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: javascript | My Octopress Blog]]></title>
+  <link href="http://dmazza.github.com/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://dmazza.github.com/"/>
+  <updated>2012-07-16T16:12:42-04:00</updated>
+  <id>http://dmazza.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Octopress Post]]></title>
+    <link href="http://dmazza.github.com/blog/2012/07/16/my-first-octopress-post/"/>
+    <updated>2012-07-16T15:59:00-04:00</updated>
+    <id>http://dmazza.github.com/blog/2012/07/16/my-first-octopress-post</id>
+    <content type="html"><![CDATA[<h1>This is my first post in octopress.</h1>
+
+<p><em>I'm just trying it out</em></p>
+
+<p>I can use markdown to type my posts.</p>
+
+<p>```javascript
+App.something({</p>
+
+<pre><code>App.somethingElse();
+</code></pre>
+
+<p>})
+```</p>
+
+<p>I've also included a link to my <a href="http://davidmazza.net">old website</a></p>
+
+<!-- more -->
+
+]]></content>
+  </entry>
+  
+</feed>

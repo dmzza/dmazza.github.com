@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dmazza.github.com/atom.xml" rel="self"/>
   <link href="http://dmazza.github.com/"/>
-  <updated>2012-07-16T15:37:37-04:00</updated>
+  <updated>2012-07-16T16:12:42-04:00</updated>
   <id>http://dmazza.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My First Octopress Post]]></title>
+    <link href="http://dmazza.github.com/blog/2012/07/16/my-first-octopress-post/"/>
+    <updated>2012-07-16T15:59:00-04:00</updated>
+    <id>http://dmazza.github.com/blog/2012/07/16/my-first-octopress-post</id>
+    <content type="html"><![CDATA[<h1>This is my first post in octopress.</h1>
+
+<p><em>I&#8217;m just trying it out</em></p>
+
+<p>I can use markdown to type my posts.</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nx">App</span><span class="p">.</span><span class="nx">something</span><span class="p">({</span>
+</span><span class='line'>  <span class="nx">App</span><span class="p">.</span><span class="nx">somethingElse</span><span class="p">();</span>
+</span><span class='line'><span class="p">})</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>I&#8217;ve also included a link to my <a href="http://davidmazza.net">old website</a></p>
+
+<!-- more -->
+
+]]></content>
+  </entry>
   
 </feed>
